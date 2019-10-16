@@ -1,5 +1,5 @@
 ---
-path: /content/test-blog-1
+path: /content/blog/test-blog-1
 date: 2019-10-16T14:28:11.247Z
 title: Test 2
 description: Some short description
